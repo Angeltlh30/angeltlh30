@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=~/+Hi%2C+I'm+An_;~/+Backend+Developer_;~/+Java+%7C+Spring+Boot+%7C+.NET_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+An" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -23,13 +23,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thien-an-ho-le/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
   <a href="https://www.facebook.com/angeltlh30" target="_blank">
-    <img src="https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white" height="48"/>
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="48" />
   </a>
   <a href="https://dev.to/annyeon30" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
+    <img src="https://skillicons.dev/icons?i=devto" height="48" />
   </a>
 </p>
 
@@ -52,8 +52,8 @@
 **Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-  <img src="https://img.shields.io/badge/-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" height="48"/>
 </p>
 
 **DevOps & Tools**
