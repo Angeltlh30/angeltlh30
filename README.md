@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+An" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Hi%2C+I'm+An_&%3E+Backend+Developer_&%3E+Java+%7C+Spring+Boot+%7C+.NET_" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -23,13 +23,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thien-an-ho-le/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.facebook.com/angeltlh30" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white" height="48"/>
   </a>
   <a href="https://dev.to/annyeon30" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
 
@@ -37,8 +37,29 @@
 
 ## Tech Stack
 
+**Backend & Architecture**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,java,spring,cs,c,cpp,js,html,css,postgres,mongodb,mssql,docker,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,java,spring,cs" />
+</p>
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://img.shields.io/badge/-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="48"/>
+</p>
+
+**DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" />
 </p>
 
 <br/>
@@ -52,4 +73,17 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angeltlh30&theme=dark&hide_border=true" />
+</p>
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Angeltlh30&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeltlh30&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Angeltlh30&theme=dark&hide_border=true" />
 </p>
