@@ -8,6 +8,7 @@
 
 ## About Me
 
+- 🎓 3rd-year Software Engineering student at FPT University HCMC
 - 🌱 I'm currently learning **Spring Boot, backend system design, and a bit of hardware/architecture**
 - 🤝 I'm looking for help with **system design and scalable backend architecture**
 - 💬 Ask me about **.NET, Java Spring Boot, Backend Development, Business Analysis**
