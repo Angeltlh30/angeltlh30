@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Hi%2C+I'm+An_&%3E+Backend+Developer_&%3E+Java+%7C+Spring+Boot+%7C+.NET_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=~/+Hi%2C+I'm+An_;~/+Backend+Developer_;~/+Java+%7C+Spring+Boot+%7C+.NET_" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -64,18 +64,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Angeltlh30&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeltlh30&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angeltlh30&theme=dark&hide_border=true" />
-</p>
-
-<br/>
 
 ## GitHub Stats
 
